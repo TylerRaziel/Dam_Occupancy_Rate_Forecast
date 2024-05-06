@@ -13,6 +13,9 @@
 
 - Aylara Göre Baraj Doluluk Oranı: [https://acikyesil.bursa.bel.tr/dataset/doluluk-aylik]
 
+
+- BUSKİ İlçe Bazında Aylık Abone Tüketimleri: [https://acikyesil.bursa.bel.tr/dataset/su-tuketim-aylik]
+
 ![image](https://github.com/iremssezer/baraj/assets/74788732/70f2c1f2-54f3-4c38-9512-d85d6d7bf3f7)
 
 ## Tüketimin Zaman İçinde Değişimi
