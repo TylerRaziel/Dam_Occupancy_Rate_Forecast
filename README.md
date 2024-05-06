@@ -5,7 +5,7 @@
 ![images](https://github.com/TylerRaziel/Dam_Occupancy_Rate_Forecast/assets/61561002/2bf35b73-89ec-46f8-9703-aadac20c5a17)
 
 
-## Dataset from the BURSA AÇIK VERİ PLATFORMU: 
+## Verisetleri BURSA AÇIK VERİ PLATFORMU: 
 
 
 - Aylara Göre Toplam Yağış Miktarı Ortalaması: [https://acikyesil.bursa.bel.tr/dataset/aylaragoretoplamyagismiktariortalamasi]
