@@ -2,7 +2,7 @@
 ## Scikit Learn
 
 
-![image](https://github.com/iremssezer/baraj/assets/74788732/62ff6f79-536d-4520-b926-99f5a3834bee)
+![images](https://github.com/TylerRaziel/Dam_Occupancy_Rate_Forecast/assets/61561002/2bf35b73-89ec-46f8-9703-aadac20c5a17)
 
 
 ## Dataset from the BURSA AÇIK VERİ PLATFORMU: 
@@ -11,8 +11,9 @@
 - Aylara Göre Toplam Yağış Miktarı Ortalaması: [https://acikyesil.bursa.bel.tr/dataset/aylaragoretoplamyagismiktariortalamasi]
 
 
-- Aylara göre doluluk oranı: [https://acikyesil.bursa.bel.tr/dataset/baraj-bursa]
+- Aylara Göre Baraj Doluluk Oranı: [https://acikyesil.bursa.bel.tr/dataset/doluluk-aylik]
 
+![image](https://github.com/iremssezer/baraj/assets/74788732/70f2c1f2-54f3-4c38-9512-d85d6d7bf3f7)
 
 ## Tüketimin Zaman İçinde Değişimi
 
@@ -33,9 +34,7 @@
 
 
 
-
-### Doğancı ve Nilüfer barajlarına ait veriler kullanılarak tahmin yapılmıştır.
-
+![image](https://github.com/iremssezer/baraj/assets/74788732/78d9dbcd-a154-4990-97eb-9cf05c08d04f)
 
 
 
@@ -48,17 +47,20 @@
 - Rastgele oluşturulmuş birden çok karar ağacının çıktısını birleştiren, regresyon ve sınıflandırma problemlerini çözmek için kullanılan bir makine öğrenme algoritmasıdır.
 
 
-- Hiper parametre kestirimi yapılmadan da iyi sonuçlar vermesi hem regresyon hem de sınıflandırma problemlerine uygulanabilir olmasından dolayı popüler makine öğrenmesi modellerinden biridir.
 
 
-
-![image](https://github.com/iremssezer/baraj/assets/74788732/70f2c1f2-54f3-4c38-9512-d85d6d7bf3f7)
-
-
-![image](https://github.com/iremssezer/baraj/assets/74788732/78d9dbcd-a154-4990-97eb-9cf05c08d04f)
-
+## Sonuçlar:
 
 ![image](https://github.com/iremssezer/baraj/assets/74788732/18bd86ee-a3c9-4cd9-8652-4bbbecd340d1)
 
 
+
+![baraj_1_1](https://github.com/TylerRaziel/Dam_Occupancy_Rate_Forecast/assets/61561002/3f889389-943e-47c5-809f-4d88ff22cab2)
+
+
+
 ![image](https://github.com/iremssezer/baraj/assets/74788732/6e193e55-8560-43c5-868a-18b6a05173cd)
+
+
+
+![baraj_2_2](https://github.com/TylerRaziel/Dam_Occupancy_Rate_Forecast/assets/61561002/8c7f60ae-c2eb-4cb0-a066-224f695fd1ba)
